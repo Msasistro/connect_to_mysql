@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "connect_to_mysql", "connect_to_mysql\connect_to_mysql.vcxproj", "{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Debug|x64.ActiveCfg = Debug|x64
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Debug|x64.Build.0 = Debug|x64
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Debug|x86.Build.0 = Debug|Win32
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Release|x64.ActiveCfg = Release|x64
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Release|x64.Build.0 = Release|x64
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Release|x86.ActiveCfg = Release|Win32
+		{FB9D19E3-3E2F-430A-8F5E-64C2F15A153E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2533DA4F-018E-4E44-BF87-610DC959DBE0}
+	EndGlobalSection
+EndGlobal
